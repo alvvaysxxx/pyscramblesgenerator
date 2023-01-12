@@ -3,3 +3,4 @@ pyscramblesgenerator.generate_scramble("cube type", N)
 N can be anything that is integer/ Example: 28
 
 So it should look like this: pyscramblesgenerator.generate_scramble("3x3x3", 28)
+Output: string
