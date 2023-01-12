@@ -1,8 +1,0 @@
-LICENCE
-README.md
-pyproject.toml
-setup.cfg
-src/pyscramblesgenerator.egg-info/PKG-INFO
-src/pyscramblesgenerator.egg-info/SOURCES.txt
-src/pyscramblesgenerator.egg-info/dependency_links.txt
-src/pyscramblesgenerator.egg-info/top_level.txt
